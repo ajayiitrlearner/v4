@@ -135,33 +135,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ajay Macharla and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Ajay Macharla and I enjoy drawing insights from data.
+              I am a Data and Business Analytics Professional with over 4 years of experience . 
+              I have expertise in Machine Learning, Data Management, SDLC oversight,
+              Visualization and Analytical report generation.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I have worked as Sr Business Analyst at{' '}<a href="https://www.icicibank.com/">ICICI Bank</a>, and{' '} 
+              Data Analytics Consultant at{' '}<a href="https://cubastion.com/">Cubastion Consulting</a>. 
+              Currently I’m pursuing Masters in Business Analytics from the prestigious{' '}
+              <a href="https://business.uc.edu/programs-degrees/graduate/specialized-masters/business-analytics.html">Carl.H.Lidner College of Business</a>.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I'm a huge fan of cricket and badminton – there's just something about the 
+              thrill of these games that hooks me every time. In the kitchen, whipping up 
+              delicious Indian dishes is my passion. And when it's leisure time, you'll 
+              often find me engrossed in movies or having a blast playing board games.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few of my key skills:</p>
           </div>
 
           <ul className="skills-list">
